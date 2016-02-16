@@ -1,0 +1,11 @@
+class MyRunnable implements Runnable{
+	JFrame win;
+	public MyRunnable (MyJFrame = MJF){
+		win = MJF
+}
+	@OverRide
+	public void run (){
+		Thread.sleep (2000);
+		sysout("Please Take Your Money")
+	}
+}

@@ -1,0 +1,23 @@
+manePane.setLayout (newGrid Layout (4,2));
+
+JPanel IntroPanel = new JPanel();
+	IntroPanel.setLayout (new FlowLayout ());
+	IntroPanel set H Align
+	
+	JButton pinButton = new JButton (pin);
+	IntroPanel.add (pinButton);
+	manePane.add (IntroPanel);
+}
+
+class LeftJPanel extends JPanel
+	public LeftJPanel (){
+		this.setLayout
+		this.setAlign
+	}
+	
+class ATMJButton extends JButton {
+	public ATMButon (string text){
+		super (text)
+		
+	}
+}
